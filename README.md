@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chukwudi</h1>
 <h3 align="center">A passionate Software Engineer with Specialization in the field of Data and Machine Learning</h3>
+
 ![My Remote Image](https://previews.123rf.com/images/garagestock/garagestock1606/garagestock160604715/58194520-gears-and-software-engineering-mechanism.jpg?fj=1)
 
 - 🔭 I’m currently working on **ide project, building a complete data pipeline**
