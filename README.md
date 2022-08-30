@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chukwudi</h1>
 <h3 align="center">A passionate Software Engineer specializing in the field of Data and Machine Learning</h3>
 
+
 - 🔭 I’m currently working on **a side project, building a complete data pipeline**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
