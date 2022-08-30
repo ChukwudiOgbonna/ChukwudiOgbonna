@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chukwudi</h1>
 <h3 align="center">A passionate Software Engineer with Specialization in the field of Data and Machine Learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chukwudiogbonna&label=Profile%20views&color=0e75b6&style=flat" alt="chukwudiogbonna" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chukwudiogbonna" alt="chukwudiogbonna" /></a> </p>
-
 - 🔭 I’m currently working on **ide project, building a complete data pipeline**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
