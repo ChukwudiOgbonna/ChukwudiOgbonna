@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **Data Engineering and Data Science Projects**
+- 👯 I’m looking to collaborate on **Data Engineering and Machine Learning Engineering Projects**
 
 - 💬 Ask me about **Python, Docker, Kubernetes**
 
