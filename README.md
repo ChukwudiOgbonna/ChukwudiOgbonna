@@ -3,7 +3,7 @@
 
 ![My Remote Image](https://previews.123rf.com/images/garagestock/garagestock1606/garagestock160604715/58194520-gears-and-software-engineering-mechanism.jpg?fj=1)
 
-- 🔭 I’m currently working on ** a side project, building a complete data pipeline**
+- 🔭 I’m currently working on **a side project, building a complete data pipeline**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
